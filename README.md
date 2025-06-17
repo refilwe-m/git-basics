@@ -12,7 +12,7 @@ git init
 
 Initializes a new Git repository in your project folder.  
 
-![VS Code source tree](/assets/initial.png)
+![VS Code source tree](./assets/initial.png)
 ---  
 
 ### **Check Repository Status**  
@@ -23,7 +23,7 @@ git status
 
 Shows the current state of your working directory (untracked, modified, or staged files).  
 
-![`git status` terminal output](/assets/status.png)
+![`git status` terminal output](./assets/status.png)
 
 ---  
 
@@ -36,7 +36,7 @@ git add .           # Stage all changes
 
 Prepares changes to be committed.  
 
-![VS Code Source Tree after `git add .`](/assets/status.png)  
+![VS Code Source Tree after `git add .`](./assets/status.png)  
 
 ---  
 
@@ -48,7 +48,7 @@ git commit -m "Your commit message"
 
 Saves staged changes with a descriptive message.  
 
-![VS Code Source Tree after commit](/assets/commit.png)
+![VS Code Source Tree after commit](./assets/commit.png)
 
 ---  
 
@@ -60,7 +60,7 @@ git log
 
 Displays a log of all commits.  
 
-![Insert Screenshot: VS Code Source Tree with `git log` output](/assets/log.png)  
+![Insert Screenshot: VS Code Source Tree with `git log` output](./assets/log.png)  
 
 ---  
 
@@ -94,7 +94,7 @@ git push -u origin main
 
 Uploads local commits to the remote repository.  
 
-![VS Code Source Tree `git push` (publishes your project to github)](/assets/push-origin.png)  
+![VS Code Source Tree `git push` (publishes your project to github)](./assets/push-origin.png)  
 
 ---  
 
@@ -128,7 +128,7 @@ git checkout <branch-name>
 
 Moves to the specified branch.  
 
-![VS Code Source Tree showing branch switch](/assets/switch-branch.png)  
+![VS Code Source Tree showing branch switch](./assets/switch-branch.png)  
 
 ---  
 
