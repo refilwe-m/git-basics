@@ -155,6 +155,10 @@ Combines changes from the specified branch into the current branch.
 - `git --help` → General Git help  
 - `git <command> --help` → Help for a specific command  
 
+## More Resources
+
+- [Git Cheat Sheet Gitlab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+
 ---  
 
 TODO: Add Full Video Tutorial
